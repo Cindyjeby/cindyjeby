@@ -1,8 +1,7 @@
 # Hello Friend👋
-## My name is Cynthia Jebiwott Kiptum
+## My name is Cynthia Kiptum
 
-- 🔭 I’m Software Engineer at @ALX 
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering @ALX
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be genrous
 - 📫 How to reach me: <cindyjeby@gmail.com><br>
